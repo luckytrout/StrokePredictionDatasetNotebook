@@ -1,5 +1,5 @@
 # StrokePredictionDatasetNotebook
-According to the World Health Organization stroke is the 2nd leading e 2nd 
+According to the World Health Organization stroke is the 2nd 
 leading cause of death globally, responsible for approximately 11% of total 
 deaths. 
 This dataset is used to predict whether a patient is likely to get stroke based on 
